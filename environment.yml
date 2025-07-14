@@ -63,6 +63,7 @@ dependencies:
   - xz=5.6.4=h80987f9_1
   - zlib=1.2.13=h18a0788_1
   - zstd=1.5.6=hfb09047_0
+  - jupyter
   - pip:
       - filelock==3.18.0
       - fsspec==2025.5.1
